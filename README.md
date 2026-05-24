@@ -8,6 +8,7 @@ A machine learning and deep learning project that classifies brain MRI scans int
 - No Tumor
 
 This project compares classical ML models with a CNN-based deep learning model to evaluate which approach performs better for medical image classification.
+Developed as the final project for the *Introduction to Artificial Intelligence* course at the University of Sharjah.
 
 ---
 
